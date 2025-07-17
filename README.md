@@ -5,16 +5,17 @@
 - 🤔 Hobis: Gym
 - 💬 Interessse em Jogos onlines 
 - 😄 Pronouns: ela/dela
+
+  </span>
+  <img src="https://i.pinimg.com/originals/1c/79/ac/1c79ac50b06bb42a24058bf13c162a3e.gif" width="70" style="margin-left: 10px;"/>
 <div>
 <a href="https://github.com/nildch/github-readme-stats">
   <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=nildch&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&bg_color=FF69B4&hide_border=true" />
+
 </a>
 <a href="https://github.com/nildch/convoychat">
   <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nildch&layout=compact&langs_count=8&card_width=320&title_color=FFFFFF&text_color=FFFFFF&bg_color=FF69B4&hide_border=true" />
 </a>
-
-   </span>
-  <img src="https://i.pinimg.com/originals/1c/79/ac/1c79ac50b06bb42a24058bf13c162a3e.gif" width="70" style="margin-left: 10px;"/>
 </div>
 
   ## 🚀 Tecnologias que uso
