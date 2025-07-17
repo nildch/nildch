@@ -5,7 +5,7 @@
 <div align="left">
   <img align="right" src="https://i.pinimg.com/originals/1c/79/ac/1c79ac50b06bb42a24058bf13c162a3e.gif" width="90"/>
 
-  <h2>Oiii! Eu sou a Nielly Jhose</h2>
+  <h2>Oiii! Eu sou a Nielly</h2>
 
   <ul>
     <li> 🔭 Atualmente graduando STI no IFPB</li>
