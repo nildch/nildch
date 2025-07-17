@@ -12,7 +12,7 @@
     <li> 🌱 Estudando Aplicações de dispositivos móveis</li>
     <li> 🤔 Hobis: Gym</li>
     <li> 💬 Interessse em Jogos onlines</li>
-    <li> 😄 Pronouns: ela/dela</li>
+    <li> 👩‍💻 Buscando oportunidade de estágio na área de TI </li>
   </ul>
 </div>
 
