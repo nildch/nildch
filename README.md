@@ -3,16 +3,16 @@
 </p>
 
 <div align="left">
-  <img align="right" src="https://i.pinimg.com/originals/1c/79/ac/1c79ac50b06bb42a24058bf13c162a3e.gif" width="110"/>
+  <img align="right" src="https://i.pinimg.com/originals/1c/79/ac/1c79ac50b06bb42a24058bf13c162a3e.gif" width="120"/>
 
   <h2>Oiii! Eu sou a Nielly Jhose</h2>
 
   <ul>
-    <li>🔭 Atualmente graduando STI no IFPB</li>
-    <li>🌱 Estudando Aplicações de dispositivos móveis</li>
-    <li>🤔 Hobis: Gym</li>
-    <li>💬 Interessse em Jogos onlines</li>
-    <li>😄 Pronouns: ela/dela</li>
+    <li> 🔭 Atualmente graduando STI no IFPB</li>
+    <li> 🌱 Estudando Aplicações de dispositivos móveis</li>
+    <li> 🤔 Hobis: Gym</li>
+    <li> 💬 Interessse em Jogos onlines</li>
+    <li> 😄 Pronouns: ela/dela</li>
   </ul>
 </div>
 
