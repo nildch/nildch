@@ -1,26 +1,22 @@
-<p align="left" style="font-size: 22px; margin-bottom: 10px;">
-💗💗💗💗💗💗💗💗💗💗💗💗💗💗💗💗💗💗💗💗💗💗💗💗💗
+<p align="center">
+  <img src="https://media1.tenor.com/m/zBevlUpAI5IAAAAC/pink-divider.gif" width="100%" />
 </p>
 
+<div align="left">
+  <img align="right" src="https://i.pinimg.com/originals/1c/79/ac/1c79ac50b06bb42a24058bf13c162a3e.gif" width="110"/>
 
-<table>
-  <tr>
-    <td>
-      <img src="https://i.pinimg.com/originals/1c/79/ac/1c79ac50b06bb42a24058bf13c162a3e.gif" width="90"/>
-    </td>
-    <td>
-      
-  ## Oiii! Eu sou a Nielly Jhose
+  <h2>Oiii! Eu sou a Nielly Jhose</h2>
 
-- 🔭 Atualmente graduando STI no IFPB  
-- 🌱 Estudando Aplicações de dispositivos móveis  
-- 🤔 Hobis: Gym  
-- 💬 Interessse em Jogos onlines  
-- 😄 Pronouns: ela/dela  
+  <ul>
+    <li>🔭 Atualmente graduando STI no IFPB</li>
+    <li>🌱 Estudando Aplicações de dispositivos móveis</li>
+    <li>🤔 Hobis: Gym</li>
+    <li>💬 Interessse em Jogos onlines</li>
+    <li>😄 Pronouns: ela/dela</li>
+  </ul>
+</div>
 
-    </td>
-  </tr>
-</table>
+
 
 <div>
 <a href="https://github.com/nildch/github-readme-stats">
@@ -32,7 +28,7 @@
 </a>
 </div>
 
-  ## 🚀 Tecnologias que uso 
+  ## 🚀 Linguagens 
 
 <div>
 <p>
@@ -47,16 +43,18 @@
   <!-- Web / Mobile -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40"/>
-
-  <!-- Backend / Banco de dados -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
-  
 </p>
+
 </div>
+ <p>
+    
+   ## Estou aprendendo
+  <!-- Backend / Banco de dados -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
+ 
+ </p>   
+
+  
 
 ## [Contato]
 
