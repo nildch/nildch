@@ -63,9 +63,7 @@
 [![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/nielly_._37288)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jhosenielen94@gmail.com)
 
-##
 
-<img src="https://www.coolmathgames.com/sites/default/files/2023-01/History%20of%20Snake%20Game%20Gameplay.gif" height="100" width="600"/>
 
 
 
