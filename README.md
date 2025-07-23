@@ -1,4 +1,4 @@
- <h2>Oiii! Eu sou a Nielly</h2>
+ <h2>Olá! Eu sou a Nielly</h2>
 
 <p align="center">
   <img src="https://media1.tenor.com/m/zBevlUpAI5IAAAAC/pink-divider.gif" width="100%" />
