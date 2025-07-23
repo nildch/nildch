@@ -3,13 +3,10 @@
 <p align="center">
   <img src="https://media1.tenor.com/m/zBevlUpAI5IAAAAC/pink-divider.gif" width="100%" />
 </p>
-
-<div align="left">
-<p align="right">
-   <img src="https://media.tenor.com/xahLJFsO-cEAAAAi/thank-you.gif" width="70" />
-    <img src="https://i.pinimg.com/originals/1c/79/ac/1c79ac50b06bb42a24058bf13c162a3e.gif" width="70" style="margin-right: 10px;" />
-   </p>
- <ul>
+  <div align="left">
+  <img src="https://media.tenor.com/xahLJFsO-cEAAAAi/thank-you.gif" width="70" align="right"/>
+  <img align="right" src="https://i.pinimg.com/originals/1c/79/ac/1c79ac50b06bb42a24058bf13c162a3e.gif" width="70"/>
+  <ul>
     <li> 🔭 Atualmente graduando STI no IFPB</li>
     <li> 🌱 Estudando Aplicações de dispositivos móveis</li>
     <li> 🤔 Hobis: Gym</li>
@@ -17,7 +14,6 @@
     <li> 👩‍💻 Buscando oportunidade de estágio na área de TI </li>
   </ul>
 </div>
-
 
 
 <div>
