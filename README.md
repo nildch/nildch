@@ -1,12 +1,10 @@
-<p align="center">
-  <img src="https://media1.tenor.com/m/zBevlUpAI5IAAAAC/pink-divider.gif" width="100%" />
-</p>
-
 <div align="left">
   <img align="right" src="https://i.pinimg.com/originals/1c/79/ac/1c79ac50b06bb42a24058bf13c162a3e.gif" width="90"/>
 
-  <h2>Oiii! Eu sou a Nielly</h2>
-
+ <h2>Oiii! Eu sou a Nielly</h2>
+<p align="center">
+  <img src="https://media1.tenor.com/m/zBevlUpAI5IAAAAC/pink-divider.gif" width="100%" />
+</p>
   <ul>
     <li> 🔭 Atualmente graduando STI no IFPB</li>
     <li> 🌱 Estudando Aplicações de dispositivos móveis</li>
