@@ -8,7 +8,7 @@
   <img align="right" src="https://i.pinimg.com/originals/1c/79/ac/1c79ac50b06bb42a24058bf13c162a3e.gif" width="70"/>
   <ul>
     <li> 🔭 Atualmente graduando STI no IFPB</li>
-    <li> 🌱 Estudando Aplicações de dispositivos móveis</li>
+    <li> 🌱 Estudando Gerência e Configuração de Sistemas para Internet</li>
     <li> 🤔 Hobis: Gym</li>
     <li> 💬 Interessse em Jogos onlines</li>
     <li> 👩‍💻 Buscando oportunidade de estágio na área de TI </li>
