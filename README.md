@@ -11,7 +11,7 @@
     <li> 🌱 Estudando Gerência e Configuração de Sistemas para Internet</li>
     <li> 🤔 Hobis: Gym</li>
     <li> 💬 Interessse em Jogos onlines</li>
-    <li> 👩‍💻 Buscando oportunidade de estágio na área de TI </li>
+    <li> 👩‍💻 Estagiária do Programa Capacita Cagepa, na Unidade de GBA </li>
   </ul>
 </div>
 
